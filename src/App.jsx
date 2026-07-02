@@ -45,7 +45,7 @@ const features = [
 ]
 
 const faqs = [
-  ['What does OutreacherPro automate?', 'OutreacherPro automates prospect outreach, personalized email generation, follow-up sequences, campaign timing, and performance tracking—so your team can focus on qualified conversations.'],
+  ['What does OutreacherPro automate?', 'OutreacherPro automates prospect outreach, AI-powered personalized email generation, and campaign timing—so you can focus on qualified conversations.'],
   ['Will AI-generated messages sound automated?', 'No. The AI uses real prospect and company context to tailor each message to your offer and voice. You stay in control of the strategy, tone, and final campaign.'],
   ['How quickly can I launch a campaign?', 'Once your audience, offer, and messaging are set, you can build and launch an automated campaign in a fraction of the time required for manual outreach.'],
   ['Who is OutreacherPro built for?', 'It is designed for founders, sales teams, agencies, consultants, and individuals who need to reach businesses without sacrificing relevance or personalization.'],
