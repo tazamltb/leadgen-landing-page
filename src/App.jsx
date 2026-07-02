@@ -71,7 +71,7 @@ function App() {
       <nav className="nav container" aria-label="Main navigation">
         <Logo />
         <div className={`nav-links ${menuOpen ? 'open' : ''}`}>
-          <a href="#contact" className="button button-small nav-cta" onClick={closeMenu}>Book a strategy call <Icon name="arrow" size={16} /></a>
+          <a href="#contact" className="button button-small nav-cta" onClick={closeMenu}><span className="desktop-nav-label">Book a strategy call</span><span className="mobile-nav-label">Book a call</span> <Icon name="arrow" size={16} /></a>
         </div>
         <button className="menu-button" onClick={() => setMenuOpen(!menuOpen)} aria-label="Toggle navigation" aria-expanded={menuOpen}>
           <Icon name={menuOpen ? 'close' : 'menu'} />
