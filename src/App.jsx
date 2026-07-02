@@ -270,7 +270,7 @@ function App() {
       <footer>
         <div className="container footer-main">
           <div className="footer-brand"><Logo/><p>Automated outreach.<br/>Human conversations.</p></div>
-          <div className="footer-links"><strong>CONNECT</strong><a href="mailto:hello@outreacherpro.com">hello@outreacherpro.com</a><a href="#top">LinkedIn ↗</a></div>
+          <div className="footer-links"><strong>CONNECT</strong><a href="mailto:hello@outreacherpro.com">hello@outreacherpro.com</a></div>
         </div>
         <div className="container footer-bottom"><span>© 2026 OutreacherPro. All rights reserved.</span><div><a href="/privacy.html">Privacy</a><a href="/terms.html">Terms</a></div></div>
       </footer>
