@@ -133,8 +133,6 @@ h1 em, h2 em { color: var(--lime-dark); font-style: normal; }
 .outcome-list p { display: flex; flex-direction: column; gap: 3px; margin: 0; }
 .outcome-list strong { font-size: 11px; }
 .outcome-list small { color: #727f91; font-size: 9px; }
-.honest-note { display: flex; align-items: flex-start; gap: 8px; margin: 22px 0 0; padding-top: 19px; color: #718096; border-top: 1px solid #cbd5e1; font-size: 9px; line-height: 1.55; }
-.honest-note svg { flex: 0 0 auto; color: #2563eb; }
 
 .difference-section { background: #0c192b; color: white; }.section-heading.compact { max-width: 620px; }.difference-grid { margin-top: 65px; display: grid; grid-template-columns: repeat(4,1fr); border-top: 1px solid #293b57; border-bottom: 1px solid #293b57; }.difference-grid > div { padding: 38px 28px; border-left: 1px solid #293b57; }.difference-grid > div:first-child { border-left: 0; }.difference-grid > div > span { color: #60a5fa; }.difference-grid h3 { font-family: 'Manrope'; font-size: 17px; margin: 22px 0 11px; }.difference-grid p { color: #96a3b7; font-size: 13px; line-height: 1.7; margin: 0; }
 

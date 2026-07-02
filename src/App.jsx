@@ -219,7 +219,6 @@ function App() {
             <div><span><Icon name="spark" size={18}/></span><p><strong>Relevant messaging</strong><small>AI adapts each message using real prospect context.</small></p></div>
             <div><span><Icon name="target" size={18}/></span><p><strong>More opportunities</strong><small>Your team gets more chances to start qualified conversations.</small></p></div>
           </div>
-          <p className="honest-note"><Icon name="shield" size={15}/> OutreacherPro is new. We’ll publish real results only when we have real, permissioned customer data.</p>
         </div>
       </section>
 
